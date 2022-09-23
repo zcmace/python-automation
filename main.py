@@ -17,3 +17,4 @@ close_btn.a
 application_root.mainloop()
 
 print("Changes")
+# changes from friends computer
