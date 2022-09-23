@@ -15,3 +15,5 @@ close_btn.pack()
 close_btn.a
 
 application_root.mainloop()
+
+print("Changes")
