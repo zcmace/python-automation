@@ -7,7 +7,7 @@ application_root.title("Automation Center")
 
 print(application_root.winfo_screen())
 
-canvas = tk.Canvas(application_root, height=300, width=1000)
+canvas = tk.Canvas(application_root, height=100, width=1000)
 canvas.pack()
 
 close_btn = Button(application_root, text="Close Automation Center", bg="teal")
